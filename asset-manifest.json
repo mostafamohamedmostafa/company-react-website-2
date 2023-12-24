@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/company-react-website-2/static/css/main.6577fe28.css",
-    "main.js": "/company-react-website-2/static/js/main.1597ecfb.js",
+    "main.css": "/company-react-website-2/static/css/main.f15d2565.css",
+    "main.js": "/company-react-website-2/static/js/main.b4555c45.js",
     "static/js/787.3dcc80ee.chunk.js": "/company-react-website-2/static/js/787.3dcc80ee.chunk.js",
     "static/media/contact-us.png": "/company-react-website-2/static/media/contact-us.77677d70c61a4d960ed9.png",
-    "static/media/Project4.png": "/company-react-website-2/static/media/Project4.b951ccc478dba3a0cd43.png",
-    "static/media/Project2.png": "/company-react-website-2/static/media/Project2.0baa83ae6140f9af8aa5.png",
     "static/media/brand5.png": "/company-react-website-2/static/media/brand5.6c352bee1efffda5e981.png",
     "static/media/brand2.png": "/company-react-website-2/static/media/brand2.735a8f032de9415c0a38.png",
     "static/media/packageimg2.png": "/company-react-website-2/static/media/packageimg2.2d14b01d33a7558922b0.png",
-    "static/media/Project6.png": "/company-react-website-2/static/media/Project6.63c7b46b80171f3cd6b4.png",
+    "static/media/Project3.jpg": "/company-react-website-2/static/media/Project3.120cacc53bf51c1e498a.jpg",
     "static/media/brand4.png": "/company-react-website-2/static/media/brand4.93eef7b26929e3b48baa.png",
     "static/media/Service4.jpg": "/company-react-website-2/static/media/Service4.77759eb0a5fb4442ee2f.jpg",
     "static/media/team_member_2.png": "/company-react-website-2/static/media/team_member_2.e302137ec1822c9fa91d.png",
@@ -18,14 +16,12 @@
     "static/media/FAQS.png": "/company-react-website-2/static/media/FAQS.fffc8005fe7aababbf74.png",
     "static/media/packageimg1.png": "/company-react-website-2/static/media/packageimg1.460845aec50996cd969c.png",
     "static/media/packageimg3.png": "/company-react-website-2/static/media/packageimg3.3f6249b152e1546d1c97.png",
-    "static/media/Project1.png": "/company-react-website-2/static/media/Project1.b4f9f0a04905d25ab0df.png",
+    "static/media/Project1.jpg": "/company-react-website-2/static/media/Project1.53130f56795995becfce.jpg",
     "static/media/brand1.png": "/company-react-website-2/static/media/brand1.d8659d7ddf9bd3ffe0f5.png",
     "static/media/happycustomer3.jpg": "/company-react-website-2/static/media/happycustomer3.7fa745a2cd97c1befb02.jpg",
-    "static/media/Project5.png": "/company-react-website-2/static/media/Project5.0b09d7c1dd41f45e1dbb.png",
     "static/media/team_member_1.png": "/company-react-website-2/static/media/team_member_1.2e72dce231b7025172cc.png",
     "static/media/brand3.png": "/company-react-website-2/static/media/brand3.401bed3930080e15b26c.png",
     "static/media/team.png": "/company-react-website-2/static/media/team.7f3188aad8aa38a0600e.png",
-    "static/media/Project3.png": "/company-react-website-2/static/media/Project3.30b4524c0461931d3ebe.png",
     "static/media/Service3.jpg": "/company-react-website-2/static/media/Service3.d073cbc7979428dbacb7.jpg",
     "static/media/happycustomer1.jpg": "/company-react-website-2/static/media/happycustomer1.e4ab0f80c33c4759995d.jpg",
     "static/media/heroimg6.jpg": "/company-react-website-2/static/media/heroimg6.5692644f08532e0a9c44.jpg",
@@ -34,7 +30,9 @@
     "static/media/happycustomer2.jpg": "/company-react-website-2/static/media/happycustomer2.fe3ebe04e02e243a759e.jpg",
     "static/media/happycustomer4.jpg": "/company-react-website-2/static/media/happycustomer4.d57b7d85a1e807bfb7e1.jpg",
     "static/media/heroimg1.jpg": "/company-react-website-2/static/media/heroimg1.3c42f6f6bce4017071e2.jpg",
+    "static/media/Project4.jpg": "/company-react-website-2/static/media/Project4.3b772ff966a114ed7669.jpg",
     "static/media/Service2.jpg": "/company-react-website-2/static/media/Service2.0fb14425f0562bb1895a.jpg",
+    "static/media/Project2.jpg": "/company-react-website-2/static/media/Project2.acf92734c3e0cc194e98.jpg",
     "static/media/heroimg2.jpg": "/company-react-website-2/static/media/heroimg2.fb1f93fd54a8b5a9eb90.jpg",
     "static/media/Service1.jpg": "/company-react-website-2/static/media/Service1.a67f3c76391d0ff201db.jpg",
     "static/media/heroimg3.jpg": "/company-react-website-2/static/media/heroimg3.2538b7020d324d50fc3a.jpg",
@@ -42,12 +40,12 @@
     "static/media/logo.svg": "/company-react-website-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/company-react-website-2/index.html",
     "static/media/backgroundimage.svg": "/company-react-website-2/static/media/backgroundimage.ddbaf4d1525185fb594f.svg",
-    "main.6577fe28.css.map": "/company-react-website-2/static/css/main.6577fe28.css.map",
-    "main.1597ecfb.js.map": "/company-react-website-2/static/js/main.1597ecfb.js.map",
+    "main.f15d2565.css.map": "/company-react-website-2/static/css/main.f15d2565.css.map",
+    "main.b4555c45.js.map": "/company-react-website-2/static/js/main.b4555c45.js.map",
     "787.3dcc80ee.chunk.js.map": "/company-react-website-2/static/js/787.3dcc80ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6577fe28.css",
-    "static/js/main.1597ecfb.js"
+    "static/css/main.f15d2565.css",
+    "static/js/main.b4555c45.js"
   ]
 }
