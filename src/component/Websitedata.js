@@ -12,16 +12,19 @@ import Service4 from '../images/Service4.jpg'
 
 
 
-import Project1 from '../images/Project1.png'
-import Project2 from '../images/Project2.png'
-import Project3 from '../images/Project3.png'
-import Project4 from '../images/Project4.png'
-import Project5 from '../images/Project5.png'
-import Project6 from '../images/Project6.png'
+import Project1 from '../images/Project1.jpg'
+import Project2 from '../images/Project2.jpg'
+import Project3 from '../images/Project3.jpg'
+import Project4 from '../images/Project4.jpg'
 
 
 
 
+import Happycustomerpic1 from '../images/happycustomer1.jpg'
+import Happycustomerpic2 from '../images/happycustomer2.jpg'
+import Happycustomerpic3 from '../images/happycustomer3.jpg'
+import Happycustomerpic4 from '../images/happycustomer4.jpg'
+ 
 
 
 import brandpic1 from '../images/brand1.png'
@@ -86,8 +89,8 @@ const Ourprojects_data = [
     { img: Project2, alttext: 'Our Projects Img', Title: 'Project Two', Descreption: 'Descripton of Project Two', Since: '2010', Nuofemployess: '30+' },
     { img: Project3, alttext: 'Our Projects Img', Title: 'Project Three', Descreption: 'Descripton of Project Three', Since: '2020', Nuofemployess: '200+' },
     { img: Project4, alttext: 'Our Projects Img', Title: 'Project FOur', Descreption: 'Descripton of Project Four', Since: '1980', Nuofemployess: '100+' },
-    { img: Project5, alttext: 'Our Projects Img', Title: 'Project Five', Descreption: 'Descripton of Project Five', Since: '2005', Nuofemployess: '250+' },
-    { img: Project6, alttext: 'Our Projects Img', Title: 'Much more Projects', Descreption: 'Descripton of Project Six', Since: '2009', Nuofemployess: '1000+' },
+    { img: Project1, alttext: 'Our Projects Img', Title: 'Project Five', Descreption: 'Descripton of Project Five', Since: '2005', Nuofemployess: '250+' },
+    { img: Project2, alttext: 'Our Projects Img', Title: 'Much more Projects', Descreption: 'Descripton of Project Six', Since: '2009', Nuofemployess: '1000+' },
 
 
 ]
@@ -133,9 +136,9 @@ const Ourservicesteps_data = []
 const Bestfeatures_data = []
 const Ourteam_data = [
 
-    { img: team_member_1, name: "Name team member 1", description: 'Team member 1 job description', workedonpejects: '400+', funfact: 'true' },
-    { img: team_member_2, name: "Name team member 2", description: 'Team member 2 job description', workedonpejects: '400+', funfact: ' All' },
-    { img: team_member_3, name: "Name team member 3", description: 'Team member 3 job description', workedonpejects: '400+', funfact: 'true' },
+    { img: Happycustomerpic1, name: "Name team member 1", description: 'Team member 1 job description', workedonpejects: '400+', funfact: 'true' },
+    { img: Happycustomerpic2, name: "Name team member 2", description: 'Team member 2 job description', workedonpejects: '400+', funfact: ' All' },
+    { img: Happycustomerpic4, name: "Name team member 3", description: 'Team member 3 job description', workedonpejects: '400+', funfact: 'true' },
 ]
 const Clients_data = [
     { img: brandpic5, title: 'Our Client pic' },

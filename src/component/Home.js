@@ -19,7 +19,7 @@ import Contactsus from './Contactsus';
 function Home() {
     return (
         <div className="Home">
-            <Nav />
+       
             < Hero />
             < Whoweare />
             <Ourservices />

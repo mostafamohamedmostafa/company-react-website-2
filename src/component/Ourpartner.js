@@ -16,7 +16,7 @@ function Ourpartner() {
                                 <div className="card h-100">
                                     <img src={Ourpartner_data_Imported.img} className="card-img-top" alt={Ourpartner_data_Imported.title} />
                                     <div className="card-body">
-                                        <h5 className="card-title">{Ourpartner_data_Imported.title} </h5>
+                                        <p className="card-title">{Ourpartner_data_Imported.title} </p>
                                     </div>
 
                                 </div>

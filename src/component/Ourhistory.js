@@ -15,7 +15,7 @@ function Ourhistory() {
                                 <div className="card h-100">
                                     <img src={Ourhistory_data_Imported.img} className="card-img-top" alt={Ourhistory_data_Imported.alttext} />
                                     <div className="card-body">
-                                        <h5 className="card-title">{Ourhistory_data_Imported.Title} </h5>
+                                        <p className="card-title">{Ourhistory_data_Imported.Title} </p>
                                     </div>
 
                                 </div>
